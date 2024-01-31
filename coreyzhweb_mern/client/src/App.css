@@ -1,0 +1,58 @@
+body {
+  margin: 0 0 0 0;
+  font-family: Lato, Arial;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  font-family: Lato, Arial;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+Link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+} 
+
+a:active {
+  text-decoration: none;
+  color: black;
+} 
+
+.link-styles {
+  text-decoration: none;
+  color: black;
+}
+
+.link-styles:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.link-styles:active {
+  text-decoration: none;
+  color: black;
+}
+
+video {
+  margin: 0;
+  padding: 0;
+}
+
+.checkbox {
+  margin: 0;
+  padding: 0;
+}
+
+
+

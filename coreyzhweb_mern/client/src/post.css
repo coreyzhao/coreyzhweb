@@ -1,0 +1,55 @@
+.post {
+  margin-top: 4rem;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(250, 247, 247);
+  height: 470px;
+  width: 500px;
+  position: relative;
+  border: 0.2px solid black;
+}
+
+.title {
+  display: block;
+  margin-left: 0rem;
+  padding: 0 2rem;
+}
+
+.post h2 {
+  text-align: center;
+  padding-top: 1rem;
+  font-family: Lora;
+}
+
+.author {
+  position: absolute;
+  right: 0;
+  padding-right: 2rem;
+  font-family: Lora;
+  font-size: 18px;
+}
+
+.tiktok_date {
+  text-align: center;
+  font-family: Lora;
+  padding-top: 4rem;
+}
+
+.post_date {
+  position: absolute;
+  padding-right: 2rem;
+  padding-bottom: 1.8rem;
+  font-family: Lora;
+  font-size: 14px;
+  right: 0;
+  bottom: 0;
+}
+
+.summary {
+  text-align: center;
+  margin-top: 1.2rem;
+  padding: 0 1rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
