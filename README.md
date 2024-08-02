@@ -22,7 +22,7 @@ A feature-rich web application for the Instagram account Coreyzh, built using th
     ```
 2. Navigate to the project directory:
     ```bash
-    cd coreyzh-webapp
+    cd coreyzhweb_mern
     ```
 3. Install server-side dependencies:
     ```bash
