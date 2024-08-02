@@ -44,7 +44,7 @@ A feature-rich web application for the Instagram account Coreyzh, built using th
     ```
 2. Start the frontend development server:
     ```bash
-    cd ../client
+    cd client
     npm start
     ```
 
