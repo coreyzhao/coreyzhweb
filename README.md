@@ -18,7 +18,7 @@ A feature-rich web application for the Instagram account Coreyzh, built using th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/coreyzh-webapp.git
+    git clone https://github.com/coreyzhao/coreyzhweb.git
     ```
 2. Navigate to the project directory:
     ```bash
