@@ -1,4 +1,4 @@
-# MERN Stack Web Application for Coreyzh
+# MERN Stack Web Application for coreyzh
 
 A feature-rich web application for the Instagram account Coreyzh, built using the MERN stack (MongoDB, Express.js, React, Node.js). This project includes secure account creation, categorized post viewing, and a community section for posting notes, offering a seamless and interactive user experience.
 
